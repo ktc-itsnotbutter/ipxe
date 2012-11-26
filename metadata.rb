@@ -8,8 +8,8 @@ version          "2.0.1"
   supports os
 end
 
-recommends "build-essential" 
-recommends "git"
+depends "build-essential" 
+depends "git"
 recommends "yum"
 recommends "apt"
 
